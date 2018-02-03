@@ -1,0 +1,6 @@
+*.ok
+*.ok_history
+*.ok_storage.db
+ok
+__pycache__/
+.vscode/
