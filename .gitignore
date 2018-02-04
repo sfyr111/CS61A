@@ -1,6 +1,9 @@
 *.ok
 *.ok_history
 *.ok_storage.db
+construct_check.py
+guessing_game_graph.py
+tests/
 ok
 __pycache__/
 .vscode/
